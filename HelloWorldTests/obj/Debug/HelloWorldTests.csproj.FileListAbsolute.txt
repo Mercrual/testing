@@ -1,0 +1,2 @@
+C:\Users\serge\source\repos\HelloWorldCore\HelloWorldTests\obj\Debug\HelloWorldTests.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\HelloWorldCore\HelloWorldTests\obj\Debug\HelloWorldTests.csproj.CoreCompileInputs.cache
